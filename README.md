@@ -8,7 +8,7 @@ This project explores how chatbot metrics such as **resolution rate, escalation 
 
 ## Dashboard Preview
 
-![AI Chatbot Dashboard](Executive_Summary.png)
+![AI Chatbot Dashboard](ai-chatbot-performance-dashboard.png)
 
 Interactive dashboard available on Tableau Public:  
 https://public.tableau.com/views/AIChatbotInteractionSummary_17710544931370/ExecutiveSummary
@@ -105,7 +105,7 @@ The dashboard includes several visual components designed to highlight different
 | File | Description |
 |------|------|
 | `README.md` | Project overview and insights |
-| `Executive_Summary.png` | Screenshot of the Tableau dashboard |
+| `ai-chatbot-performance-dashboard.png` | Screenshot of the Tableau dashboard |
 | `ai_chatbot_interaction_dataset.xlsx` | Chatbot Interaction Dataset |
 
 ---
