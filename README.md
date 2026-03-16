@@ -110,11 +110,11 @@ The dashboard includes several visual components designed to highlight different
 
 ---
 
-## Analytical Report
+## Medium Article
 
-A full analytical report describing the dashboard design and insights is available here:
+A short Medium article walking through the dashboard and what I learned from the data is available here:
 
-[View Report](report.pdf)
+https://medium.com/@pratitisoumya/how-to-evaluate-ai-chatbot-performance-with-a-simple-dashboard-e3b5a5130e80
 
 ---
 
